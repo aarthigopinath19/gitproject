@@ -12,6 +12,7 @@ public class firstproject {
 		 c=10;
 		 d=10;
 		 e=a*b*c*d;
+		 System.out.println("This is the program for Multiplication");
 		 System.out.println("The final product is"+e);
 		 
 	}
